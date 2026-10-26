@@ -1,7 +1,7 @@
 
 media:
   input: assets/photos
-  output: /subash-photography/assets/photos
+  output: /assets/photos
   categories: [image]
   rename: safe
 
