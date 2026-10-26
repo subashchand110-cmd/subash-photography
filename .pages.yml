@@ -1,0 +1,43 @@
+
+media:
+  input: assets/photos
+  output: /subash-photography/assets/photos
+  categories: [image]
+  rename: safe
+
+content:
+  - name: photos
+    label: My Photos
+    type: collection
+    path: _photos
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+      fields: [title, category]
+    fields:
+      - name: title
+        label: Photo Title
+        type: string
+        required: true
+
+      - name: image
+        label: Upload Photo
+        type: image
+        required: true
+
+      - name: category
+        label: Category
+        type: select
+        options:
+          values:
+            - value: landscapes
+              label: Landscapes
+            - value: streets
+              label: Streets
+            - value: along-the-way
+              label: Along the Way
+
+      - name: description
+        label: Caption
+        type: text
