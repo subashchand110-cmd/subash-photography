@@ -1,0 +1,5 @@
+title: "Subash's Photography"
+description: "just things i saw."
+collections:
+  photos:
+    output: false
