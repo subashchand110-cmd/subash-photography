@@ -1,7 +1,5 @@
 ---
-title: "somewhere up there"
+title: waterfall
 image: /assets/photos/photo-2.jpg
-category: "landscapes"
-size: "normal"
-order: 1
+category: landscapes
 ---
