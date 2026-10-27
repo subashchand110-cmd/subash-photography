@@ -1,7 +1,5 @@
 ---
-title: "the long way around"
+title: Sahid Gate
 image: /assets/photos/photo-1.jpg
-category: "streets"
-size: "normal"
-order: 2
+category: streets
 ---
