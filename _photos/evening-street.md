@@ -1,7 +1,5 @@
 ---
-title: "after hours"
+title: Jomsom
 image: /assets/photos/photo-5.jpg
-category: "streets"
-size: "normal"
-order: 3
+category: streets
 ---
