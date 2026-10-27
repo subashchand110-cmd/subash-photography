@@ -1,7 +1,5 @@
 ---
-title: "along the way"
+title: traffic
 image: /assets/photos/photo-3.jpg
-category: "along the way"
-size: "normal"
-order: 4
+category: streets
 ---
